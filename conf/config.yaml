@@ -1,0 +1,9 @@
+mode: debug
+port: :8007
+url: http://127.0.0.1:8007
+max_check_count: 10
+database:
+  name: curd
+  host: 127.0.0.1:3306
+  username: root
+  password: root
